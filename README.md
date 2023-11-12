@@ -3,7 +3,8 @@ Nesse repositório (ainda em PT-BR) se encontra o código *drive* para o projeto
 
 ## 📓 Funcionamento
 
-1. Os dados utilizados são obtidos de uma tabela ***.xls*** contendo registros como, Professor, Turma, Disciplina, Turma X Disciplina. **IMPORTANTE:* utilizar o template em *data/*. 
+1. Os dados utilizados são obtidos de uma tabela ***.xls*** contendo registros como, Professor, Turma, Disciplina, Turma X Disciplina.
+  1.1. **IMPORTANTE:** utilizar o template em *data/*. 
 2. A tabela é processada por um modulo Python que a quebra em diversos ***.csv***, processando os valores textuais em Classes.
   2.1. Após preenchidas, as classes são relacionadas em conjuntos bijetivos.
 3. A *engine* computa uma solução ***S*** vazia, tal qual os horários de todos os objetos são zero.
